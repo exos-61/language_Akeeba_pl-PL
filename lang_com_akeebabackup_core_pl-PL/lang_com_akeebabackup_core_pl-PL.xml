@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="file" version="2.5" method="upgrade">
+
+    <name>lang_com_akeebabackup_core_pl-PL</name>
+    <author>Zbigniew Sokal</author>
+    <creationDate>31 May 2022</creationDate>
+    <copyright>(C) 2018-2022 Poradniki Dziadka</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <authorEmail>admin@dziadek.guide</authorEmail>
+    <authorUrl>https://dziadek.guide</authorUrl>
+    <version>9.2.4</version>
+    <description>Polski (pl-PL) pakiet językowy dla komponentu Akeeba Core i Kickstart</description>
+
+    <!-- Fileset definition -->
+    <fileset>
+
+        <!-- back-end -->
+        <files folder="backend" target="administrator/language/pl-PL">
+            <filename>com_akeebabackup.ini</filename>
+            <filename>com_akeebabackup.sys.ini</filename>
+            <filename>plg_quickicon_akeebabackup.ini</filename>
+            <filename>plg_quickicon_akeebabackup.sys.ini</filename>
+        </files>
+
+        <files folder="backend" target="administrator/components/com_akeebabackup/language/pl-PL">
+            <filename>com_akeebabackup.ini</filename>
+            <filename>com_akeebabackup.sys.ini</filename>
+        </files>
+
+        <files folder="backend" target="/">
+            <filename>pl-PL.kickstart.ini</filename>
+        </files>
+
+        <!-- front-end -->
+        <files folder="frontend" target="language/pl-PL">
+            <filename>com_akeebabackup.ini</filename>
+        </files>
+    </fileset>
+    <updateservers>
+        <server type="collection" priority="1" name="lang_com_akeebabackup_core_pl-PL">http://upgrade.dziadek.guide/translationlist.xml</server>
+    </updateservers>
+</extension>
