@@ -1,7 +1,7 @@
 # Polecenia Git
 
 ## Status, dodawanie i zatwierdzanie zmian
-
+“%s”
 Sprawdź stan swojego repozytorium, aby dowiedzieć się, czy nastąpiły zmiany. Uruchom terminal skrótem Ctrl-` . Terminal uruchomi się w katalogu (obszarze roboczym), który masz otwarty w VSC
 
 * Sprawdź, czy są wymienione zmiany: `git status`. Otrzymasz podobny komunikat
