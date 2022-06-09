@@ -1,2 +1,2 @@
 # language_Akeeba_pl-PL
- Language for Akeeba Core, Kickstart
+ Language for component Akeeba and script Kickstart
