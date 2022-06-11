@@ -21,7 +21,7 @@ Spolszczone zostały pliki językowe **.ini**.
 
 ## Instalacja pakietu językowego
 
-Zostaną zainstalowane pliki językowe w lokalizacjach komponentu, oraz w katalogach języków zaplecza **backend language** i katalogu języków frontowych **frontend languages**.
+Zostaną zainstalowane pliki językowe w lokalizacjach komponentu, oraz w katalogach języków zaplecza **administrator/language** i katalogu języków frontowych **language**.
 
 ### Lokalizacja pliku instalacyjnego
 
