@@ -25,7 +25,7 @@ Zostaną zainstalowane pliki językowe w lokalizacjach komponentu, oraz w katalo
 
 ### Lokalizacja pliku instalacyjnego
 
-* Plik instalacyjny można pobrać z tego konta GitHub lub ze strony internetowej dziadek.guide pod adresem [Akeeba Backup Core](http://upgrade.dziadek.guide/joomla/lang_com_akeebabackup_core_pl-PL.zip) lub {Akeeba Backup Pro](http://upgrade.dziadek.guide/joomla/lang_com_akeebabackup_pro_pl-PL.zip) i zainstalować tradycyjnie w Joomla z opcją **Instaluj z pakietu**
+* Plik instalacyjny można pobrać z tego konta GitHub lub ze strony internetowej dziadek.guide pod adresem [Akeeba Backup Core](http://upgrade.dziadek.guide/joomla/lang_com_akeebabackup_core_pl-PL.zip) lub [Akeeba Backup Pro](http://upgrade.dziadek.guide/joomla/lang_com_akeebabackup_pro_pl-PL.zip) i zainstalować tradycyjnie w Joomla z opcją **Instaluj z pakietu**
 * Drugi sposób jest wygodniejszy. Skopiuj adres URL i wklej w instalatorze z opcją **Instaluj z URL**
   * Core `http://upgrade.dziadek.guide/joomla/lang_com_akeebabackup_core_pl-PL.zip`
   * Pro `http://upgrade.dziadek.guide/joomla/lang_com_akeebabackup_pro_pl-PL.zip`
