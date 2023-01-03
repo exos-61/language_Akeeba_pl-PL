@@ -8,7 +8,7 @@
     <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
     <authorEmail>admin@dziadek.guide</authorEmail>
     <authorUrl>https://dziadek.guide</authorUrl>
-    <version>9.3.0</version>
+    <version>9.4.5</version>
     <description>Polski pakiet językowy dla komponentu Akeeba Core i skryptu Kickstart</description>
 
     <!-- Fileset definition -->
@@ -37,6 +37,6 @@
         </files>
     </fileset>
     <updateservers>
-        <server type="collection" priority="1" name="lang_com_akeebabackup_core_pl-PL">https://upgrade.dziadek.guide/translationlist.xml</server>
+        <server type="collection" priority="1" name="lang_com_akeebabackup_core_pl-PL">https://dziadek.guide/langpack/translationlist.xml</server>
     </updateservers>
 </extension>
