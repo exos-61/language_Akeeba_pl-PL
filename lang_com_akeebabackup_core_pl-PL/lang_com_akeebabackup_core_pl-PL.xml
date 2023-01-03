@@ -33,6 +33,7 @@
         <!-- front-end -->
         <files folder="frontend" target="language/pl-PL">
             <filename>com_akeebabackup.ini</filename>
+            <filename>pkg_akeebabackup.sys.ini</filename>
         </files>
     </fileset>
     <updateservers>
