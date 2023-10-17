@@ -3,12 +3,12 @@
 
     <name>Spolszczenie Akeeba Backup Core</name>
     <author>Zbigniew Sokal</author>
-    <creationDate>31.05.2022</creationDate>
+    <creationDate>17.10.2023</creationDate>
     <copyright>(C) 2018-2022 Poradniki Dziadka</copyright>
     <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
     <authorEmail>admin@dziadek.guide</authorEmail>
     <authorUrl>https://dziadek.guide</authorUrl>
-    <version>9.4.5</version>
+    <version>9.8.1</version>
     <description>Polski pakiet językowy dla komponentu Akeeba Core i skryptu Kickstart</description>
 
     <!-- Fileset definition -->
